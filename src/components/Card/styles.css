@@ -1,0 +1,11 @@
+.card-container {
+  @apply flex flex-col items-center justify-center p-5 bg-white rounded-lg shadow-lg gap-5 text-center;
+}
+
+.card-container h2 {
+  @apply font-bold text-xl text-dark_blue;
+}
+
+.card-container p {
+  @apply text-[15px] text-grayish_blue;
+}
