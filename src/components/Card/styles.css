@@ -1,5 +1,5 @@
 .card-container {
-  @apply flex flex-col items-center justify-center p-5 bg-white rounded-lg shadow-lg gap-5 text-center;
+  @apply flex flex-col items-center justify-center p-4 bg-white rounded-lg shadow-lg gap-5 text-center;
 }
 
 .card-container img {
