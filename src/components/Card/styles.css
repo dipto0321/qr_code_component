@@ -1,15 +1,15 @@
 .card-container {
-  @apply flex flex-col items-center justify-center p-4 bg-white rounded-lg shadow-lg gap-5 text-center;
+    @apply flex flex-col items-center justify-center p-4 bg-white rounded-lg shadow-lg gap-5 text-center;
 }
 
 .card-container img {
-  @apply rounded-lg;
+    @apply rounded-lg;
 }
 
 .card-container h2 {
-  @apply font-bold text-xl text-dark_blue;
+    @apply font-bold text-xl text-dark_blue;
 }
 
 .card-container p {
-  @apply text-[15px] text-grayish_blue;
+    @apply text-[15px] text-grayish_blue;
 }
