@@ -1,11 +1,11 @@
 import './App.css';
 import { Card } from './components';
 
-import QRImg from './assets/image-qr-code.png'
+import QRImg from './assets/image-qr-code.png';
 
 function App() {
   return (
-    <div className="bg-light_gray h-screen flex items-center justify-center">
+    <div className="gradient-background h-screen flex items-center justify-center">
       <div className="container w-[300px]">
         <Card
           imgSrc={QRImg}
